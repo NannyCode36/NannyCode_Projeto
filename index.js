@@ -6,3 +6,6 @@ let numero = 10;
 let qtde = 500;
 let result = numero * qtde;
 console.log(`O Resultado da multiplicação foi de: ${result}`);
+
+console.log("Agora mais teste");
+
